@@ -1,0 +1,12 @@
+body {
+  background-image: url("https://sitejerk.com/images/gif-transparent-4.png");
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+  background-position: left;
+  height: 500px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
